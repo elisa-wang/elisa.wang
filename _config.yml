@@ -59,16 +59,16 @@ author:
   bio    : "PhD Candidate at Centre for Eye Health (CFEH), UNSW Sydney"
   links:
     - label: "Website"
-      icon: "fas fa-fw fa-link"
+      icon: "fa-fw fas fa-link"
       url: "https://elisa.wang/"
     - label: "ORCID 0000-0002-0592-9383"
-      icon: "fab fa-fw fa-orcid"
+      icon: "fa-fw fab fa-orcid"
       url: "https://orcid.org/0000-0002-0592-9383"
     - label: "LinkedIn"
-      icon: "fab fa-fw fa-linkedin"
+      icon: "fa-fw fab fa-linkedin"
       url: "https://www.linkedin.com/in/elisa-wang"
     - label: "CFEH Profile"
-      icon: "fab fa-fw fa-university"
+      icon: "fa-fw fas fa-university"
       url: "https://www.centreforeyehealth.com.au/research/cfeh-research-team/elisa-li/"
 
 defaults:
